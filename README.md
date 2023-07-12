@@ -8,7 +8,7 @@
 *	General Information Contact
 
 
-##Conclusions
+## Conclusions
 From the final Linear Regression Model, I concluded the following:
 
 - The actual temperature in Celsius ('temp') is the most important feature of predicting bike rentals.
